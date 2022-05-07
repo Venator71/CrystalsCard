@@ -1,0 +1,64 @@
+html {
+    background-image: url(images/download.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size: cover; */
+    /* opacity: .85; */
+}
+
+.banner {
+    /* background: -webkit-linear-gradient(PINK, rgb(187, 27, 187), BLACK);
+  		-webkit-background-clip: text;
+  		-webkit-text-fill-color: transparent; */
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    color: rgb(101, 49, 105);
+}     
+
+.container {
+    display: block;
+    text-align: center;
+    /* border: 1px solid aqua; */
+    font-size: 50px;
+    
+    
+}
+
+.intro-paragraph {
+    color: white;
+
+
+}
+
+.img-container {
+    color: white;
+
+}
+
+img {
+    padding: 10px;
+    max-width: 300px;
+    max-height: 200px;
+}
+
+img:hover {
+    max-width: 900px;
+    max-height: 800px;
+}
+
+.intro-paragraph {
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff;
+    color: rgb(101, 49, 105);
+
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+.quote {
+    font-size: 40px;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff;
+    letter-spacing: 3px;
+    color: rgb(101, 49, 105);
+
+}
